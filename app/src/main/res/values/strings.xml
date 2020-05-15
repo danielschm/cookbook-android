@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cookbook</string>
+    <string name="title_meal">Gerichte</string>
+    <string name="title_shopping_list">Einkaufsliste</string>
+    <string name="title_planner">Planer</string>
+    <string name="title_profile">Profil</string>
+    <string name="meal_search_hint">Suche ein Gericht…</string>
+    <string name="duration">Dauer</string>
+    <string name="name">Name</string>
+    <string name="ingredients">Zutaten</string>
+</resources>
